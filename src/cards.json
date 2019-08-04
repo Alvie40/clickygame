@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Vulture",
+    "image": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/09/Vulture-Marvel.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Mysterio",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/01/Quentin-Beck-Earth-616-from-Spider-Man-Deadpool-Vol-1-2-001.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Scorpio",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/05/Scorpion-Mac-Gargan.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Lizard",
+    "image": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2017/07/Lizard.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "KingPin",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/02/Kingpin-Obliterator-Cane.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Kraven",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2017/11/Kraven-the-Hunter-Kravens-Last-Hunt.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Electro",
+    "image": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2017/04/electro-amazing-spider-man.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Sandman",
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/10/Sandman.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Venon",
+    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/01/Venom-Stegman.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "DocOct",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/10/Doctor-Octopus.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Carnage",
+    "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2018/04/carnage.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Morlun",
+    "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2016/12/Morlun.jpg?q=50&fit=crop&w=738&h=369&dpr=1.5",
+    "count": 0
+  }
+]
